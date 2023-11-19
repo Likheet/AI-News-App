@@ -1,0 +1,16 @@
+#root, html, body {
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+    margin: 0px;
+    background-color: #FBEBD2;
+}
+* {
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}

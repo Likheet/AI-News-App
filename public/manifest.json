@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "AI News App",
+  "name": "News App Powered by Alan AI",
   "icons": [
     {
       "src": "favicon.ico",

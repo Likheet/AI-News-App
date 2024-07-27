@@ -33,3 +33,11 @@ The AI News App is a voice-controlled news application created using Alan AI, fa
    ```bash
    git clone https://github.com/Likheet/AI-News-App.git
    cd AI-News-App
+2. **Install Dependencies**:
+   ```bash
+   Copy code
+   npm install
+3. **Start the Development Server**:
+   ```bash
+   Copy code
+   npm start
